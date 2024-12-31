@@ -1,0 +1,17 @@
+{
+  "author": "Tova",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "systeminformation": "^5.23.16"
+  },
+  "description": "provides data of the current cpu load of the machine",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cpu-load",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
