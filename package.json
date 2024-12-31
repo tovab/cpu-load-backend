@@ -1,0 +1,19 @@
+{
+  "name": "cpu-load",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "provides data of the current cpu load of the machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-os-utils": "^1.3.7",
+    "systeminformation": "^5.23.16",
+    "windows-cpu": "^1.1.0"
+  }
+}
